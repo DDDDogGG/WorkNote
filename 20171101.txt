@@ -1,0 +1,8 @@
+// 解决 8081
+cd ~/Library/LaunchDaemons
+sudo launchctl unload com.mcafee.agent.macmn.plist
+
+
+// 显示隐藏文件终极方案
+选中文件/文件夹, Command+Shift+. 可以显示隐藏文件/文件夹，再按一次，恢复隐藏；
+finder下使用Command+Shift+G 可以前往任何文件夹，包括隐藏文件夹。
